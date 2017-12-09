@@ -22,5 +22,7 @@ https://friendlychat-be992.firebaseapp.com/
 
 I have updated a folder for testing.
 
-I am doing the testing for another Android chatting web.
+I am doing the testing for another Android chatting web.(Testing1)
+
+Upload a testing case for web chatting app.(Testing2)
 
