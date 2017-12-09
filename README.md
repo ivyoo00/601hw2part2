@@ -18,3 +18,9 @@ https://console.firebase.google.com/project/friendlychat-be992/settings/cloudmes
 And this is the web app(Hosting URL):
 https://friendlychat-be992.firebaseapp.com/
 
+## Updating
+
+I have updated a folder for testing.
+
+I am doing the testing for another Android chatting web.
+
